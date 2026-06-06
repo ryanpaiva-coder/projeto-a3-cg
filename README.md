@@ -46,11 +46,11 @@ Este repositório contém a implementação do Projeto Prático (Avaliação A3)
    pip install opencv-python numpy matplotlib pillow scikit-image
    ```
 
-4. ***Execute o script principal:***
+4. **Execute o script principal:**
    ```bash
    python3 projeto_a3_ryan.py
    ```
 
-5. ***Verifique os resultados:***
+5. **Verifique os resultados:**
 
    Após a execução, o terminal exibirá as métricas calculadas (PSNR, SNR e Área Segmentada e Valor Médio de Pixel) e todas as imagens processadas estarão salvas dentro da pasta `resultados/`.
